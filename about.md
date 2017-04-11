@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm usual engineer working in California.
 
-### More Information
+### Blog motivation
 
-A place to include any other types of information that you'd like to include about yourself.
+One day decided that it will be great to write here some thoughts, useful URLs and some advices.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[vsevolod.brekelov@gmail.com](mailto:vsevolod.brekelov@gmail.com)
