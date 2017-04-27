@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-highlighter: rouge
+#highlighter: rouge
 # Name of your site (displayed in the header)
 name: Kate Murzina
 
@@ -9,7 +9,7 @@ name: Kate Murzina
 description: From Linguist to QA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/27782944?v=3&u=096ae2aa3d28e70c67a1daf0ad3cbd1ee53d4dd4&s=400
+#avatar: https://avatars0.githubusercontent.com/u/27782944?v=3&u=096ae2aa3d28e70c67a1daf0ad3cbd1ee53d4dd4&s=400
 
 #
 # Flags below are optional
