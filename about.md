@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+test
 
 ### More Information
 
