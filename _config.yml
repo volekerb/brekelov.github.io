@@ -9,7 +9,7 @@ name: Kate Myr
 description: From Linguist to QA
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: #todo: create avatar
+avatar: "/image/avatar-icon.png"
 
 #
 # Flags below are optional
