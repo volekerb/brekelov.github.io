@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm usual engineer working in California.
-
-### Blog motivation
-
-One day decided that it will be great to write here some thoughts, useful URLs and some advices.
+I'm software engineer working in California.
 
 ### Contact me
 
