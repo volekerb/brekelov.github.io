@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I'm software engineer working in California.
+Software Engineer. 
+<br>
+/#java #spring #testing #typeScript #kotlin #angular #docker #cicd #aws #googleCloud/
+<br>
 
 ### Contact me
 
